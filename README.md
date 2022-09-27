@@ -1,0 +1,2 @@
+# DigifestRekaminAcademyDataScience
+Penelitian ini saya melakukan proses data preprocessing dan analisa pada data loan customer yang disediakan oleh Rakamin Academy yang berisi tentang perilaku pelanggan pengajuan pinjaman pada Bank. Proses data preprocessing meliputi missing value, duplicated data, outliner, dan feature encoding dan analisa data yang dilakukan adalah analisis minat pelanggan berdasarkan pada tipe properti dan analisis pengaruh status perkawinan terhadap jangka waktu meminjam tanpa dipengaruhi oleh status pinjaman (Approve / Reject)
